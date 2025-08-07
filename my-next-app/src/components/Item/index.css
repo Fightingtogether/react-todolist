@@ -1,0 +1,17 @@
+.item-wrap{
+  li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 35px;
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 5px 10px ;
+    label{
+      .item-name{
+      font-size: 14px;
+      margin-left: 8px;
+    }
+    }
+  }
+}

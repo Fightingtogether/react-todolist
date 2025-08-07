@@ -1,0 +1,10 @@
+.list-wrap{
+  margin-top: 20px;
+  height: calc(90vh - 105px);
+  overflow: auto;
+  ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+}

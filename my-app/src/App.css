@@ -1,0 +1,26 @@
+
+ul{
+  padding: 0;
+}
+.app-wrap{
+  width: 600px;
+  height: 90vh;
+  margin: 2vh auto;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  position: relative;
+  .btn{
+    cursor: pointer;
+    background: rgb(230, 84, 84);
+    width: auto;
+    height: 35px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 8px;
+    font-size: 14px;
+    color:#fff;
+    line-height: 10px;
+    text-align: center;
+  }
+}
